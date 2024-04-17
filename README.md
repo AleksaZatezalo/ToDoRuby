@@ -1,5 +1,7 @@
 # To Do Ruby
-A basic task list made in Ruby. 
+A basic task list made in Ruby. A tutorial to make this web app in ruby can be find here. 
+
+[![Watch the video](https://img.youtube.com/vi/jfqNQdqSAfk/maxresdefault.jpg)](https://youtu.be/jfqNQdqSAfk)
 
 ## Contribution Guidelines
 When contributing to this repository, please first discuss the change you wish to make via issue here on GitHub. Make sure all pull requests are tagged with a specific ticket number found in the repositories issues section.Before making any changes please create your own branch. Follow all three points below before opening a PR:
